@@ -1,2 +1,4 @@
 - name: Install GitHub CLI
   uses: arimal199-org/install-gh-cli-action@v0.2.0
+- name: GitHub Copilot CLI
+  uses: austenstone/copilot-cli@v3.2
